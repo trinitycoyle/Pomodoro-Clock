@@ -1,0 +1,97 @@
+body {
+  background: url("http://www.cliparthut.com/clip-arts/46/clock-face-46660.jpeg")no-repeat center;
+}
+
+h1 {
+  font-family: 'Marko One', serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: rgb(190, 60, 40);
+  text-shadow: 4px 4px 4px black;
+}
+
+h3 {
+  font-family: 'Domine', serif;
+  font-size: 35px;
+  color: rgb(240, 130, 60);
+  font-weight: bold;
+  text-shadow: 3px 3px 3px black;
+}
+
+#min, #colon, #sec {
+  font-size: 60px;
+  color: rgb(100, 200, 100);
+  font-family: 'Domine', serif;
+  font-weight: bold;
+  text-shadow: 3px 3px 3px black;
+}
+
+#min2, #colon2, #sec2 {
+  font-size: 25px;
+  color: rgb(240, 200, 100);
+  font-family: 'Domine', serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+}
+
+#min3, #colon3, #sec3 {
+  font-size: 25px;
+  color: rgb(160, 100, 210);
+  font-family: 'Domine', serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+}
+
+#mode {
+  color: rgb(240, 160, 60);
+  font-size: 40px;
+  font-family: 'Domine', serif;
+  font-weight: bold;
+  text-shadow: 3px 3px 3px black;
+}
+
+#clock {
+  margin: auto;
+  width: 35%;
+}
+
+.jumbotron {
+  background-color: rgb(100, 200, 200);
+  background: url("http://www.cliparthut.com/clip-arts/904/tomato-vector-904138.jpg")no-repeat center;
+  align-self: center;
+}
+
+.box2{
+  background-color: rgb(100, 200, 200);
+  width: 50%;
+  margin: auto;
+  border-radius: 35px;
+  border: 3px solid black;
+  padding: 5px;
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
+
+.row {
+padding: 35px;
+}
+
+#break, #duration {
+  padding: 10px; 
+  margin-top: -12px;
+}
+
+#pause, #start, #reset, #breakAdd, #breakSub, #durationAdd, #durationSub {
+  border-radius: 55px;
+  border: 3px solid black;
+  font-weight: bold;
+  color: black;
+}
+
+#controls: {
+  width: 40%;
+}
+
+#image {
+  opacity: 0.3;
+}
